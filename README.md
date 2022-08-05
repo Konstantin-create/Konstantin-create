@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a 15 year old programmer trying to make cool stuff. Now I am slowly learning Data Science from the book by William Springer (computer science guide). And in the background I am writing my version control system, in the future I want to write CI and several solutions for servers.
+I'm a 15 year old programmer trying to make cool stuff. Now I am slowly learning Data Science from the "Computer Scienceguid" by William Springer. And in the background I am writing my version control system, in the future I want to write CI and several solutions for servers.
 <br>
 
 ### Some facts about me:
