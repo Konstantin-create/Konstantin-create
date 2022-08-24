@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a 15 year old programmer trying to make cool stuff. Now I am writing my net json transport protocol, in the future I want to write CI and several solutions for servers.
+I'm a 15 year old programmer trying to make cool stuff. Now I am writing an util for server which can share one folder for 2 servers using sockets, in the future I want to write CI and several solutions for servers.
 <br>
 
 ### Some facts about me:
