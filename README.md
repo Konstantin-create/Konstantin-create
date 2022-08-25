@@ -9,6 +9,7 @@ I'm a 15 year old programmer trying to make cool stuff. Now I am writing an util
 
 ### How to reach me:
 - [My Telegram](https://t.me/hacknet_dev)
+- [LinkedIn](https://www.linkedin.com/in/shahov-konstantin/)
 ___
 
 ## &#x1f4c8; GitHub Stats
