@@ -5,6 +5,8 @@ Top 5% on LinkedIn in Python test\
 ![](https://komarev.com/ghpvc/?username=Konstantin-create)
 <br>
 
+#### Yo, guys, everyone, unfortunately school starts on 1.09, I'll try to do at least a hello commit on the day, but I definitely can't, sorry if that(
+
 ### Some facts about me:
 - OS: Fedora Workstation
 - Code editor: NeoVim (with plugins)
