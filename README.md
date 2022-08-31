@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a 15 year old programmer trying to make cool stuff. Now I am writing an util for server which can share one folder for 2 servers using sockets, in the future I want to write CI and several solutions for servers.
+I'm a 15 year old programmer trying to make cool stuff. Now I am writing a program for some kind of any server which can share one folder to 2 servers using sockets, in the future I want to write my own CI and some solutions for servers.
 
 Top 5% on LinkedIn in Python test\
 ![](https://komarev.com/ghpvc/?username=Konstantin-create)
@@ -54,4 +54,4 @@ ___
 
 ## 💰 Donate
 - QIWI nickname: DOMAN258
-- Metamask vallet: 0x5D7a39b6B21BaBD874C73B9d108986780BEcF7c5
+- Ethereum (ERC-20): 0x5D7a39b6B21BaBD874C73B9d108986780BEcF7c5
