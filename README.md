@@ -1,10 +1,13 @@
 ### Hi there 👋
+<!---first-description-->
 I'm a 15 year old programmer trying to make cool stuff. Now I am writing a program for some kind of any server which can share one folder to anouther server using sockets, in the future I'm gonna to write my own CI and some solutions for servers.
 
 Top 5% on LinkedIn in Python test\
+<!---end-->
 ![](https://komarev.com/ghpvc/?username=Konstantin-create)
 <br>
 
+<!---second-description-->
 ### Some facts about me:
 - OS: Fedora Workstation
 - Code editor: NeoVim (with plugins)
@@ -13,6 +16,7 @@ Top 5% on LinkedIn in Python test\
 ### How to reach me:
 - [My Telegram](https://t.me/hacknet_dev)
 - [LinkedIn](https://www.linkedin.com/in/shahov-konstantin/)
+<!---end-->
 ___
 
 ## &#x1f4c8; GitHub Stats
