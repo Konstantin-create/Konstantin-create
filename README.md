@@ -1,9 +1,10 @@
 ### Hi there 👋
 <!---first-description-->
 I'm a 15 year old programmer trying to make cool stuff. Now I am writing a program for some kind of any server which can share one folder to anouther server using sockets, in the future I'm gonna to write my own CI and some solutions for servers.
+<!---end-->
 
 Top 5% on LinkedIn in Python test\
-<!---end-->
+
 ![](https://komarev.com/ghpvc/?username=Konstantin-create)
 <br>
 
