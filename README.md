@@ -16,7 +16,7 @@ Top 5% on LinkedIn in Python test\
 <!---end-->
 
 ### How to reach me:
-- [My Telegram](https://t.me/hacknet_dev)
+- [My Telegram](https://t.me/hfhjfjooo2993)
 - [LinkedIn](https://www.linkedin.com/in/shahov-konstantin/)
 ___
 
