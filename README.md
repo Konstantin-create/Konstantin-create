@@ -16,7 +16,7 @@ Top 5% on LinkedIn in Python test\
 <!---end-->
 
 ### How to reach me:
-- [My Telegram](https://t.me/hfhjfjooo2993)
+- [My Telegram](https://t.me/hfhjfjooo2993) <-- Создание web-сайта(Create web-stite)
 - [LinkedIn](https://www.linkedin.com/in/shahov-konstantin/)
 ___
 
