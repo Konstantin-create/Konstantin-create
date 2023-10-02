@@ -11,7 +11,7 @@ Top 5% on LinkedIn in Python test\
 <!---second-description-->
 ### Some facts about me:
 - OS: Fedora Linux 37 (Workstation Edition) x86_64
-- Code editor: NeoVim (with plugins)
+- Code editor: Pycharm+Vim keybind
 - Favorite programming language: Python
 <!---end-->
 
