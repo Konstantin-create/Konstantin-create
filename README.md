@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!---first-description-->
-I'm a 15 year old programmer trying to make cool stuff. Now I am writing my version control system and personal blog, in the future I'm gonna to write my own CI and some solutions for servers.
+I'm a 16 year old programmer trying to make cool stuff. Now I am writing my version control system and personal blog, in the future I'm gonna to write my own CI and some solutions for servers.
 
 Top 5% on LinkedIn in Python test\
 <!---end-->
@@ -16,7 +16,7 @@ Top 5% on LinkedIn in Python test\
 <!---end-->
 
 ### How to reach me:
-- [My Telegram](https://t.me/hfhjfjooo2993) <-- Создание web-сайта(Create web-stite)
+- [My Telegram](https://t.me/hfhjfjooo2993) <-- Создание web-сайта(Create web-site)
 - [LinkedIn](https://www.linkedin.com/in/shahov-konstantin/)
 ___
 
